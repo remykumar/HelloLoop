@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E87E-E07B
+
+ Directory of C:\remy\projects\jenkins_git
+
+11/10/2020  08:40 AM    <DIR>          .
+11/10/2020  08:40 AM    <DIR>          ..
+11/10/2020  08:39 AM               909 HelloLoop.class
+11/10/2020  08:04 AM               162 HelloLoop.java
+11/10/2020  08:36 AM               462 index.html
+11/10/2020  08:36 AM               513 readme.txt
+11/10/2020  08:40 AM                 0 results.txt
+               5 File(s)          2,046 bytes
+               2 Dir(s)  382,002,405,376 bytes free
